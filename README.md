@@ -19,6 +19,7 @@ The dataset used for this project is the [Kaggle Dogs vs. Cats dataset](https://
 
 ## Model Architecture
 The model is a convolutional neural network (CNN) with the following architecture:
+
 -Libraries: Keras and TensorFlow
 - Input layer
 - Convolutional layers with ReLU activation
